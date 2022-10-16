@@ -3,7 +3,7 @@
     <title>Cornell CoLab&#x27;s Guides</title>
     <link href="https://cornellcolab.github.io/guides/feed.xml" rel="self" />
     <link href="https://cornellcolab.github.io/guides" />
-    <updated>2022-10-16T18:50:47-04:00</updated>
+    <updated>2022-10-16T18:55:45-04:00</updated>
     <author>
         <name>The Digital CoLab at Cornell University Library</name>
     </author>
@@ -51,16 +51,16 @@
         <link href="https://cornellcolab.github.io/guides/harassment/"/>
         <id>https://cornellcolab.github.io/guides/harassment/</id>
 
-        <updated>2022-10-16T18:50:47-04:00</updated>
+        <updated>2022-10-16T18:55:45-04:00</updated>
             <summary>
                 <![CDATA[
-                    Threat Models A good security plan starts with a threat model (also known as a risk assessment), and it can be vague at first. As&hellip;
+                    Threat Models A good security plan starts with a threat model -- also known as a risk assessment. A threat model is personal, and it&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2>Threat Models</h2>
-<p>A good security plan starts with a threat model (also known as a risk assessment), and it can be vague at first. As you continue to plan and take actions, the threat model becomes a touchstone that can help you decide which actions are worthwhile for you.</p>
+<p>A good security plan starts with a threat model -- also known as a risk assessment. A threat model is personal, and it can be vague at first. As you continue to learn, plan, and take your first actions, the threat model becomes a touchstone that can help you decide which defenses are  worthwhile for you.</p>
 <p><a data-cke-saved-href="https://www.eff.org/files/2020/01/06/threatmodeling-onepager.pdf" href="https://www.eff.org/files/2020/01/06/threatmodeling-onepager.pdf">Risk Assessment one-pager</a>, Electronic Frontier Foundation (2019).</p>
 <p class="msg msg--info">For background reading to help inform your threat model, see the section Understanding Harassment below. </p>
 <h2>Secure Your Accounts</h2>
