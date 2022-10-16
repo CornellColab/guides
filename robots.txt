@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cornellcolab.github.io/guides/sitemap.xml
