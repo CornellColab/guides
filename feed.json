@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://cornellcolab.github.io/guides/guide/",
+            "url": "https://cornellcolab.github.io/guides/guide/",
+            "title": "Guides from the Digital CoLab",
+            "summary": "The Digital CoLab supports new and experimental approaches to research and teaching that are most often associated with the humanities and qualitative social sciences. We offer&hellip;",
+            "content_html": "<p>The Digital CoLab supports new and experimental approaches to research and teaching that are most often associated with the humanities and qualitative social sciences.</p>\n<p>We offer <a href=\"https://digitalscholarship.library.cornell.edu/contact\">one-on-one consultations</a>, <a href=\"https://digitalscholarship.library.cornell.edu/education\">workshops</a>, and <a href=\"https://digitalscholarship.library.cornell.edu/contact\">classroom instruction</a> on projects including:</p>\n<ul>\n<li>Digital exhibits or digital publications</li>\n<li>Maps</li>\n<li>Privacy</li>\n<li>Computational text analysis (Words are data too!)</li>\n<li>Finding or preparing</li>\n<li>Network analysis</li>\n<li>Database design and maintenance</li>\n<li>Finding or preparing data with Optical Character Recognition (OCR), APIs, webscraping or other methods.</li>\n<li>Troubleshooting or remixing Python or R code for any of the above tasks. </li>\n</ul>\n<p><a href=\"https://digitalscholarship.library.cornell.edu/about\">Learn more about our work</a>.</p>\n<p><a href=\"http://digitalscholarship.library.cornell.edu/contact\">Contact us</a> to sign up for our weekly newsletter or ask questions.</p>",
+            "author": {
+                "name": "The Digital CoLab at Cornell University Library"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-16T18:36:18-04:00",
+            "date_modified": "2022-10-16T18:38:31-04:00"
+        },
+        {
             "id": "https://cornellcolab.github.io/guides/harassment/",
             "url": "https://cornellcolab.github.io/guides/harassment/",
             "title": "Digital Harassment Self-Defense",
