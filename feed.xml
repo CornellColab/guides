@@ -3,7 +3,7 @@
     <title>Cornell CoLab&#x27;s Guides</title>
     <link href="https://cornellcolab.github.io/guides/feed.xml" rel="self" />
     <link href="https://cornellcolab.github.io/guides" />
-    <updated>2022-10-16T19:30:16-04:00</updated>
+    <updated>2022-10-17T08:46:34-04:00</updated>
     <author>
         <name>The Digital CoLab at Cornell University Library</name>
     </author>
@@ -51,7 +51,7 @@
         <link href="https://cornellcolab.github.io/guides/harassment/"/>
         <id>https://cornellcolab.github.io/guides/harassment/</id>
 
-        <updated>2022-10-16T19:30:16-04:00</updated>
+        <updated>2022-10-17T08:46:34-04:00</updated>
             <summary>
                 <![CDATA[
                     Threat Models A good security plan starts with a threat model -- also known as a risk assessment. A threat model is personal, and it&hellip;
@@ -72,7 +72,7 @@
 <h3>Choose and Maintain a Password Manager</h3>
 <p><a href="https://www.nytimes.com/wirecutter/blog/why-you-need-a-password-manager-yes-you/">Why You Need a Password Manager. Yes, You.</a>, A. Cunningham (2021). <em>Wirecutter: The New York Times</em></p>
 <p><a href="https://haveibeenpwned.com/">Have I Been Pwned?</a> A safe, free tool that allows you to see if your email address(es) has been a username in any known credential hacks.</p>
-<p>Choose a password manager, and install it on all your devices:</p>
+<p>Choose a password manager, and install it on all your devices. Here are three easy-to-use options:</p>
 <h5>Bitwarden</h5>
 <aside class="post__note">
 <ul>
@@ -103,7 +103,7 @@
 </ul>
 </aside>
 <p><em><strong>Pros:</strong></em><em> </em>Supported by Cornell while you're affiliated.</p>
-<p><em><strong>Cons:</strong></em><em> </em>It's the only third-party password manager known to have experienced a security breach (but no passwords were accessed). Also, recent purchase by venture capital firm raises questions.</p>
+<p><em><strong>Cons:</strong></em> Its recent acquisition by a private equity firm raises questions. It's also the only third-party password manager known to have experienced a security breach (but only of its source code. No customer passwords were accessed.). </p>
 <p><em><strong>Cost</strong></em>: Free Personal plan or Family plan for Cornell affiliates.<br>After Cornell affiliation ends: Free for one individual and <em>one device, </em>$36/yr for full-featured individual plan, $48/yr for families.</p>
 <h3>Enable Multi-Factor Authentication</h3>
 <p>For your most important or most sensitive accounts, consider enabling two-factor authentication (2FA) with an authenticator app, a hardware token -- or both, which lets each act as a backup for the other.</p>
@@ -112,7 +112,7 @@
 <p>Authenticator apps are free for individual end users (like you) because their profit comes from the tech companies that pay for them to be compatible with their sites, and by enterprise customers (like Cornell).</p>
 <p>Authenticator apps explained: <a href="https://www.vox.com/recode/22419794/authenticator-apps-and-you-authy-google-authenticator">There's a Better Way to Protect Yourself from Hackers and Identity Thieves</a>, S. Morrison (2021). <em>Vox recode.</em></p>
 <p>You probably already use one authenticator app -- Duo Mobile -- to access your Cornell account. <a href="https://guide.duo.com/third-party-accounts">Follow these instructions to add additional third-party accounts to Duo Mobile</a>.</p>
-<p><a href="https://authy.com">Authy</a> is another free and trustworthy authenticator app.</p>
+<p><a href="https://authy.com">Authy</a> is another free and trustworthy authenticator app. <br>Some 3rd-party password managers also offer authenicator apps. </p>
 <h5><strong>Authentication with a Hardware Token</strong></h5>
 <p>A hardware token is the most secure form of 2FA. It's a small physical item that looks slightly like a thumb drive. Keep it with you -- on your keychain, for example -- and plug it into your device's USB or Lightning drive when you need authentication. It's particularly useful if you need 2FA access when you don't have reliable cellular service, or if you use burner phones.</p>
 <p>Hardware tokens explained: <a href="https://www.wired.com/story/how-to-use-a-yubikey/">Simplify and Secure Your Online Accounts with a Yubikey</a>, J Colt (2018). <em>WIRED.</em></p>
@@ -145,7 +145,7 @@
 <p>If you maintain a personal website, use a contact form rather than publishing your personal email address.</p>
 <p>If you have a personal website, be sure to keep security patches updated. Or, build your site using a static site generator; static sites are more resistant to denial-of-service attacks and other attempts to cause harm. Talk to Digital CoLab staff for help with building a static site. </p>
 <h3>Your Academic Work</h3>
-<p>Be aware that your email correspondence with colleagues at state universitiesmay be obtained and pub lished via public records requests.</p>
+<p>Be aware that your email correspondence with colleagues at state universities may be obtained and published via public records requests.</p>
 <p>Consider adding a copyright statement to your syllabus that prohibits students' posting course materials publicly. <a href="https://theuniversityfaculty.cornell.edu/dean/academic-integrity/students-buying-and-selling-course-materials/">This Faculty Senate page offers suggested language</a>. If you find your work posted on third party sites, you can request removal. Cornell Library Copyright Services offers <a href="https://guides.library.cornell.edu/copyright/course-material">a guide for finding re-posted course material and requesting its removal. </a></p>
 <h3>Early Warning System</h3>
 <p><a href="https://support.google.com/websearch/answer/4815696?hl=en" target="_blank" rel="noopener noreferrer">Set up a Google alert for your name</a>, so that you will have a heads-up if you become a target.</p>
@@ -164,17 +164,18 @@
 <p>A Model <a href="https://news.syr.edu/blog/2021/09/13/message-from-chancellor-kent-syverud-and-dean-david-van-slyke/">Public Message in Support of Targeted Faculty Member </a>, Syracuse University, Sept. 2021</p>
 <p><a href="https://www.aaup.org/sites/default/files/Cherniavsky-.pdf">Against the Common Sense: Academic Freedom as a Collective Right </a> E. Cherniavsky,  <em>Journal of Academic Freedom. </em>2021</p>
 <h2>Understanding Harassment</h2>
+<p>A collection of essays, research, and journalism.</p>
 <h5>First-person Accounts by Targeted Academics</h5>
 <p><a data-cke-saved-href="https://www.uproot.space/features/confronting-anti-asian-racism" href="https://www.uproot.space/features/confronting-anti-asian-racism">Confronting Anti-Asian Racism: A Statement on (In)visibility and Online Targeted Harassment</a>, R. Esmail (2021), <em>Up//root.</em></p>
 <p><a href="https://www.facebook.com/haymarketbooks/posts/a-statement-from-keeanga-yamahtta-taylor-concerning-my-public-talks-this-weekit-/1494045207312386/">A Statement Concerning My Public Talks This Week</a>, K. Taylor, posted on Facebook by Haymarket Books, 2017.</p>
 <p><a data-cke-saved-href="https://doi.org/10.1177/0891243218766831" href="https://doi.org/10.1177/0891243218766831">"Are You Willing to Die For This Work?" Public Targeted Online Harassment in Higher Education: SWS [Sociologists for Women in Society] Presidential Address</a>, A. L. Ferber (2018), <em>Gender &amp; Society </em>32(3)<em>.</em></p>
 <h5>US-based Far-right </h5>
-<p><a data-cke-saved-href="https://www.aaup.org/article/data-snapshot-whom-does-campus-reform-target-and-what-are-effects#.Yji_gJrMLFw" href="https://www.aaup.org/article/data-snapshot-whom-does-campus-reform-target-and-what-are-effects#.Yji_gJrMLFw">Data Snapshot: Whom Does Campus Reform Target and What Are the Effects?</a> H. Tiede, et.al., <em>American Association of University Professors Reports &amp; Publications.</em> Spring 2021</p>
+<p><a href="https://www.aaup.org/article/data-snapshot-whom-does-campus-reform-target-and-what-are-effects#.Yji_gJrMLFw">Data Snapshot: Whom Does Campus Reform Target and What Are the Effects?</a> H. Tiede, et.al., <em>American Association of University Professors Reports &amp; Publications.</em> Spring 2021</p>
 <p><a data-cke-saved-href="https://www-tandfonline-com.proxy.library.cornell.edu/doi/full/10.1080/07393148.2021.1996837" href="https://www-tandfonline-com.proxy.library.cornell.edu/doi/full/10.1080/07393148.2021.1996837">Sensationalized Surveillance: Campus Reform and the Targeted Harassment of Faculty</a> S. McCarthy &amp; I. Kamola<em>, New Political Science.</em> Nov. 2021</p>
 <p><a data-cke-saved-href="https://theintercept.com/2021/04/10/campus-reform-koch-young-americans-for-freedom-leadership-institute/" href="https://theintercept.com/2021/04/10/campus-reform-koch-young-americans-for-freedom-leadership-institute/">A Billionaire-Funded Website with Ties to the Far-Right Is Trying to "Cancel" University Professors</a> A. Speri, <em>The Intercept. </em>April 2021</p>
 <p class="msg msg--success">Guide: <a href="https://facultyfirstresponders.com/">Faculty First Responders: Understand Right Wing Attacks on Faculty</a>, from political scientist Isaac Karmola</p>
 <h5>Science-denialism</h5>
-<p><a href="https://www.science.org/content/article/overwhelmed-hate-covid-19-scientists-face-avalanche-abuse-survey-shows">In the Line of Fire </a> C. O'Grady, <em>Science</em>, March 2022<br>On networked harassment of scientists, particularly those working on COVID-19 research.</p>
+<p><a href="https://www.science.org/content/article/overwhelmed-hate-covid-19-scientists-face-avalanche-abuse-survey-shows">In the Line of Fire </a> C. O'Grady, <em>Science</em>, March 2022<br>On the networked harassment of scientists, particularly those working on COVID-19 research.</p>
 <h5>Foreign Affairs</h5>
 <p><a href="https://www.washingtonpost.com/world/2021/10/03/india-us-universities-hindutva/" target="_blank" rel="nofollow noopener noreferrer"></a><a href="https://www.washingtonpost.com/world/2021/10/03/india-us-universities-hindutva/" target="_blank" rel="nofollow noopener noreferrer">Under Fire from Hindu Nationalist Groups, U.S.-based Scholars of South Asia Worry About Academic Freedom</a> N. Masih, <em>The </em><em>Washington Post,</em> Oct. 3, 2021</p>
 <p><a href="https://www.hrw.org/report/2021/06/30/they-dont-understand-fear-we-have/how-chinas-long-reach-repression-undermines" target="_blank" rel="nofollow noopener noreferrer">"They Don't Understand the Fear We Have": How China's Long Reach of Repression Undermines Academic Freedom at Australia's Universities</a> <em>Human Rights Watch, </em>June 30, 2021</p>
