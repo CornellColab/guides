@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://cornellcolab.github.io/guides/student-projects/",
+            "url": "https://cornellcolab.github.io/guides/student-projects/",
+            "title": "Projects by Cornell Students",
+            "summary": "Digital Collections &amp; New Forms of Publication Visualizing Joy in 19th-century Black Studio Portraiture: A digital collection of photographs for you to explore. Waymack, A.",
+            "content_html": "<h2>Digital Collections &amp; New Forms of Publication</h2>\n<p> </p>\n<aside class=\"post__note post__note--left\">\n<h3><a href=\"http://revisualizearchives.com\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"font-family: var(--font-base); font-size: 1.42383em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);\">Revisualize Archives</a></h3>\n<h6>Victoria Baugh,<br>Literatures in English</h6>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://cornellcolab.github.io/guides/media/posts/4//revisualizeJoy2.jpeg\" sizes=\"(max-width: 768px) 100vw, 768px\" srcset=\"https://cornellcolab.github.io/guides/media/posts/4//responsive/revisualizeJoy2-xs.jpeg 300w ,https://cornellcolab.github.io/guides/media/posts/4//responsive/revisualizeJoy2-sm.jpeg 480w ,https://cornellcolab.github.io/guides/media/posts/4//responsive/revisualizeJoy2-md.jpeg 768w\"  alt=\"\" width=\"269\" height=\"269\"></figure>\n<p>Visualizing Joy in 19th-century Black Studio Portraiture: <br>A digital collection of photographs for you to explore.</p>\n</aside>\n<aside class=\"post__note post__note--right\">\n<h3><a href=\"chaumpaigne.org/\" target=\"_blank\" rel=\"noopener noreferrer\">De raptu meo</a></h3>\n<h6>Anna Waymack,<br>Medieval Studies</h6>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://cornellcolab.github.io/guides/media/posts/4/duraptuMeo1-2.png\" sizes=\"(max-width: 768px) 100vw, 768px\" srcset=\"https://cornellcolab.github.io/guides/media/posts/4/responsive/duraptuMeo1-2-xs.png 300w ,https://cornellcolab.github.io/guides/media/posts/4/responsive/duraptuMeo1-2-sm.png 480w ,https://cornellcolab.github.io/guides/media/posts/4/responsive/duraptuMeo1-2-md.png 768w\"  alt=\"\" width=\"273\" height=\"273\"></figure>\n<p>Waymack, A. \"<a href=\"https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=2092&amp;context=mff\" target=\"_blank\" rel=\"noopener noreferrer\">Teaching 'de raptu meo': Chaucer, Chaumpaigne, and Consent in the Classroom</a>,\" Medieval Feminist Forum 53.1 (2017): 150-75.</p>\n</aside>\n<aside class=\"post__note--left post__note\">\n<h3><a href=\"http://periodicalpoets.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Periodical Poets</a></h3>\n<h6>Charline Jao,<br>Literatures in English</h6>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://cornellcolab.github.io/guides/media/posts/4/periodicalPoets1.jpg\" sizes=\"(max-width: 768px) 100vw, 768px\" srcset=\"https://cornellcolab.github.io/guides/media/posts/4/responsive/periodicalPoets1-xs.jpg 300w ,https://cornellcolab.github.io/guides/media/posts/4/responsive/periodicalPoets1-sm.jpg 480w ,https://cornellcolab.github.io/guides/media/posts/4/responsive/periodicalPoets1-md.jpg 768w\"  alt=\"\" width=\"278\" height=\"278\"></figure>\n<p>Over 500 poems from 19th-century, Black-edited periodicals: shedding light on literary trends, reading practices, and the role of poetry in abolition and protest.</p>\n</aside>",
+            "author": {
+                "name": "The Digital CoLab at Cornell University Library"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-17T12:09:54-04:00",
+            "date_modified": "2022-10-18T12:28:58-04:00"
+        },
+        {
             "id": "https://cornellcolab.github.io/guides/guide/",
             "url": "https://cornellcolab.github.io/guides/guide/",
             "title": "Guides from the Digital CoLab",
