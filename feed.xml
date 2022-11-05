@@ -3,7 +3,7 @@
     <title>Cornell CoLab&#x27;s Guides</title>
     <link href="https://cornellcolab.github.io/guides/feed.xml" rel="self" />
     <link href="https://cornellcolab.github.io/guides" />
-    <updated>2022-10-25T09:13:54-04:00</updated>
+    <updated>2022-11-05T19:06:16-04:00</updated>
     <author>
         <name>The Digital CoLab at Cornell University Library</name>
     </author>
@@ -89,7 +89,7 @@
         <link href="https://cornellcolab.github.io/guides/harassment/"/>
         <id>https://cornellcolab.github.io/guides/harassment/</id>
 
-        <updated>2022-10-24T22:12:19-04:00</updated>
+        <updated>2022-11-05T19:06:16-04:00</updated>
             <summary>
                 <![CDATA[
                     Threat Models A good security plan starts with a threat model -- also known as a risk assessment. A threat model is personal, and it&hellip;
@@ -172,12 +172,13 @@
 <p><a href="https://www.nytimes.com/2019/09/24/opinion/facebook-google-apps-data.html">The Loophole That Turns Your Apps Into Spies</a> (C. Warzel, <em>NYTimes. </em>Sept. 24, 2019<em>)</em><br><a href="https://themarkup.org/ask-the-markup/2022/02/24/who-is-policing-the-location-data-industry#2022-app-store-illustrated-explainer_numbered-list">Who Is Policing the Location Data Industry?</a> (A. Ng &amp; J. Keegan,,<em>The Markup. </em>Feb. 24, 2022)</p>
 <h2>Control Your Online Presence</h2>
 <h3>Social Media</h3>
+<p>On Twitter, use the <a href="https://www.blockpartyapp.com/" target="_blank" rel="noopener noreferrer">Block Party app</a> to activate several very useful tools and strategies, such as proactive blocking of known bad actors, and quarantining of harassing messages.</p>
 <p>Bulk delete old tweets with the tool <a href="https://semiphemeral.com/">Semiphemeral</a>. You can also plan to delete them on an automatic schedule . See <a href="https://micahflee.com/2020/09/semiphemeral-automate-deleting-your-old-tweets-likes-and-direct-messages/">Instructions here</a>. Many customization options. You can also save a spreadsheet of your old tweets for personal archiving, if you want.</p>
 <p>Delete or hide old Facebook posts in bulk (<a href="https://www.pcmag.com/how-to/quickly-delete-old-facebook-posts">Instructions from <em>PCMag</em></a>, 2021)</p>
-<p>On Twitter, consider proactive blocking. The <a href="https://www.blockpartyapp.com/" target="_blank" rel="noopener noreferrer">Block Party app</a> provides multiple tools and strategies. </p>
 <p>If you have social media accounts that you use primarily for communicating with friends and family (rather than professionally), consider making them private.</p>
 <p>What kinds of information and images do you feel comfortable sharing going forward?</p>
 <p class="msg msg--success">Guide: <a href="http://prcurtis.com/docs/twitterguide2/" target="_blank" rel="noopener noreferrer">A Guide to Twitter and Social Media Safety for Academics (And Everyone Else)</a> by historian Paula R. Curtis</p>
+<p class="msg msg--warning">Note: Since Twitter ownership changed in later October 2022, a significant portion of the company's Trust and Safety Team has been laid off, and policies are under change. Users and journalists report a rise in harassment and hate speech. The situation is still developing, but some tips in the above guide may become outdated.</p>
 <h3>University Websites &amp; Personal Websites</h3>
 <p>Do you want a photo on your department website? Do you want your campus address posted on university or personal websites?</p>
 <p>If you maintain a personal website, use a contact form rather than publishing your personal email address.</p>
@@ -187,7 +188,12 @@
 <p>Consider adding a copyright statement to your syllabus that prohibits students' posting course materials publicly. <a href="https://theuniversityfaculty.cornell.edu/dean/academic-integrity/students-buying-and-selling-course-materials/">This Faculty Senate page offers suggested language</a>. If you find your work posted on third party sites, you can request removal. Cornell Library Copyright Services offers <a href="https://guides.library.cornell.edu/copyright/course-material">a guide for finding re-posted course material and requesting its removal. </a></p>
 <h3>Early Warning System</h3>
 <p><a href="https://support.google.com/websearch/answer/4815696?hl=en" target="_blank" rel="noopener noreferrer">Set up a Google alert for your name</a>, so that you will have a heads-up if you become a target.</p>
-<p>Proactively request colleagues and family not share your contact information or personal details with cold callers or e-mailers. Consider speaking with your departmental administrative staff, and with anyone who is connected with your name in your academic work, or who you find linked to you in data-broker records.</p>
+<p>Proactively request colleagues and family not share your contact information, schedule, or other personal details with cold callers or e-mailers. Speak with:</p>
+<ul>
+<li>Departmental faculty and staff</li>
+<li>Anyone who is connected with your name in your academic work</li>
+<li>Anyone (usually family members or roommates) who you find linked to you in data-broker records</li>
+</ul>
 <h2>Plan in Advance: <br>How To Respond in the Event of an Attack</h2>
 <p>Is there a friend you would trust to screen your email for you, so that you don't have to read the messages in the moment? Talk to them in advance.</p>
 <p>Who in your personal or professional networks could you tap to report social media abuse? Threatening posts have a better chance of being taken down if reported by someone other than the target.</p>
