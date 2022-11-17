@@ -3,7 +3,7 @@
     <title>Cornell CoLab&#x27;s Guides</title>
     <link href="https://cornellcolab.github.io/guides/feed.xml" rel="self" />
     <link href="https://cornellcolab.github.io/guides" />
-    <updated>2022-11-05T19:06:16-04:00</updated>
+    <updated>2022-11-17T13:24:16-05:00</updated>
     <author>
         <name>The Digital CoLab at Cornell University Library</name>
     </author>
@@ -89,7 +89,7 @@
         <link href="https://cornellcolab.github.io/guides/harassment/"/>
         <id>https://cornellcolab.github.io/guides/harassment/</id>
 
-        <updated>2022-11-05T19:06:16-04:00</updated>
+        <updated>2022-11-17T13:24:16-05:00</updated>
             <summary>
                 <![CDATA[
                     Threat Models A good security plan starts with a threat model -- also known as a risk assessment. A threat model is personal, and it&hellip;
@@ -163,6 +163,7 @@
 <p>Install tracking blocker extensions on your web browsers, like <a href="https://privacybadger.org/">Privacy Badger</a> or <a href="https://ublockorigin.com/">uBlock Origin</a>.</p>
 <p>Delete apps from your phone that you don't need.</p>
 <p>Follow t<a href="https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-privacy-tips.html">hese steps for limiting location tracking on your phone</a>. (<em>NYTimes</em>, Dec. 2019)</p>
+<p class="msg msg--success">Guide: <a href="https://datadetoxkit.org/en/home" target="_blank" rel="noopener noreferrer">Data Detox Kit</a>, by the Tactical Tech organization</p>
 <h3>Background Reading on Data Brokers</h3>
 <h5><strong>Public-Facing Data Brokers</strong></h5>
 <p><a href="https://www.nytimes.com/2019/08/15/technology/personaltech/i-shared-my-phone-number-i-learned-i-shouldnt-have.html">I Shared My Phone Number. I Learned I Shouldn't Have.</a> (B. Chen, <em>NYTimes. </em>Aug. 15, 2019.)</p>
@@ -170,21 +171,24 @@
 <p><a href="https://www.nytimes.com/interactive/2019/12/21/opinion/pasadena-smartphone-spying.html">Where Even the Children Are Being Tracked</a> (C. Warzel &amp; S. Thompson, <em>NYTimes. </em>Dec. 21, 2019)</p>
 <h5><strong>Phone Apps</strong></h5>
 <p><a href="https://www.nytimes.com/2019/09/24/opinion/facebook-google-apps-data.html">The Loophole That Turns Your Apps Into Spies</a> (C. Warzel, <em>NYTimes. </em>Sept. 24, 2019<em>)</em><br><a href="https://themarkup.org/ask-the-markup/2022/02/24/who-is-policing-the-location-data-industry#2022-app-store-illustrated-explainer_numbered-list">Who Is Policing the Location Data Industry?</a> (A. Ng &amp; J. Keegan,,<em>The Markup. </em>Feb. 24, 2022)</p>
-<h2>Control Your Online Presence</h2>
+<h2>Control Your Purposeful Online Presence</h2>
 <h3>Social Media</h3>
+<p>Identify all your accounts, including those you may have abandoned long ago. Search for old handles and email addresses. Delete accounts you no longer use. Delete old content you no longer need.  </p>
 <p>On Twitter, use the <a href="https://www.blockpartyapp.com/" target="_blank" rel="noopener noreferrer">Block Party app</a> to activate several very useful tools and strategies, such as proactive blocking of known bad actors, and quarantining of harassing messages.</p>
 <p>Bulk delete old tweets with the tool <a href="https://semiphemeral.com/">Semiphemeral</a>. You can also plan to delete them on an automatic schedule . See <a href="https://micahflee.com/2020/09/semiphemeral-automate-deleting-your-old-tweets-likes-and-direct-messages/">Instructions here</a>. Many customization options. You can also save a spreadsheet of your old tweets for personal archiving, if you want.</p>
 <p>Delete or hide old Facebook posts in bulk (<a href="https://www.pcmag.com/how-to/quickly-delete-old-facebook-posts">Instructions from <em>PCMag</em></a>, 2021)</p>
 <p>If you have social media accounts that you use primarily for communicating with friends and family (rather than professionally), consider making them private.</p>
 <p>What kinds of information and images do you feel comfortable sharing going forward?</p>
-<p class="msg msg--success">Guide: <a href="http://prcurtis.com/docs/twitterguide2/" target="_blank" rel="noopener noreferrer">A Guide to Twitter and Social Media Safety for Academics (And Everyone Else)</a> by historian Paula R. Curtis</p>
-<p class="msg msg--warning">Note: Since Twitter ownership changed in later October 2022, a significant portion of the company's Trust and Safety Team has been laid off, and policies are under change. Users and journalists report a rise in harassment and hate speech. The situation is still developing, but some tips in the above guide may become outdated.</p>
+<p class="msg msg--success">Guide: <a href="http://prcurtis.com/docs/twitterguide2/" target="_blank" rel="noopener noreferrer">A Guide to Twitter and Social Media Safety for Academics (And Everyone Else)</a> by historian Paula R. Curtis (2022)</p>
+<p class="msg msg--warning">Note: Since Twitter ownership changed in later October 2022, a significant portion of the company's Trust and Safety team, including is leader, have left, and the company does not currently employ a data protection officer. Observers are raising concerns about basic data security and privacy, as well as the potential for moderation and other harassment policies to change without warning. The situation is still developing, but some information in the above guide may become outdated.</p>
 <h3>University Websites &amp; Personal Websites</h3>
 <p>Do you want a photo on your department website? Do you want your campus address posted on university or personal websites?</p>
 <p>If you maintain a personal website, use a contact form rather than publishing your personal email address.</p>
 <p>If you have a personal website, be sure to keep security patches updated. Or, build your site using a static site generator; static sites are more resistant to denial-of-service attacks and other attempts to cause harm. Talk to Digital CoLab staff for help with building a static site. </p>
 <h3>Your Academic Work</h3>
 <p>Be aware that your email correspondence with colleagues at state universities may be obtained and published via public records requests.</p>
+<p>If you maintain a profile on a third-party host of preprints/postprints, be cautious with commercial surveillance sites such as Academia and ResearchGate. Instead, consider repositories and networks built, owned, and maintained by scholarly communities, such as <a href="https://orcid.org/" target="_blank" rel="noopener noreferrer">OrcID</a>, <a href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">ArXiv</a>, <a href="https://hcommons.org/" target="_blank" rel="noopener noreferrer">Humanities Commons</a>, <a href="https://ecommons.cornell.edu/" target="_blank" rel="noopener noreferrer">eCommons</a>, or others in your field. </p>
+<p>When a library database vendor pushes you to create an account while using it, avoid doing so, unless you have a specific reason for wanting to do so. </p>
 <p>Consider adding a copyright statement to your syllabus that prohibits students' posting course materials publicly. <a href="https://theuniversityfaculty.cornell.edu/dean/academic-integrity/students-buying-and-selling-course-materials/">This Faculty Senate page offers suggested language</a>. If you find your work posted on third party sites, you can request removal. Cornell Library Copyright Services offers <a href="https://guides.library.cornell.edu/copyright/course-material">a guide for finding re-posted course material and requesting its removal. </a></p>
 <h3>Early Warning System</h3>
 <p><a href="https://support.google.com/websearch/answer/4815696?hl=en" target="_blank" rel="noopener noreferrer">Set up a Google alert for your name</a>, so that you will have a heads-up if you become a target.</p>
@@ -210,22 +214,24 @@
 <p><a href="https://www.aaup.org/sites/default/files/Cherniavsky-.pdf">Against the Common Sense: Academic Freedom as a Collective Right </a> E. Cherniavsky,  <em>Journal of Academic Freedom. </em>2021</p>
 <h2>Understanding Harassment</h2>
 <p>A collection of essays, research, and journalism.</p>
-<h5>First-person Accounts by Targeted Academics</h5>
+<h3>First-person Accounts by Targeted Academics</h3>
 <p><a data-cke-saved-href="https://www.uproot.space/features/confronting-anti-asian-racism" href="https://www.uproot.space/features/confronting-anti-asian-racism">Confronting Anti-Asian Racism: A Statement on (In)visibility and Online Targeted Harassment</a>, R. Esmail (2021), <em>Up//root.</em></p>
 <p><a href="https://www.facebook.com/haymarketbooks/posts/a-statement-from-keeanga-yamahtta-taylor-concerning-my-public-talks-this-weekit-/1494045207312386/">A Statement Concerning My Public Talks This Week</a>, K. Taylor, posted on Facebook by Haymarket Books, 2017.</p>
 <p><a data-cke-saved-href="https://doi.org/10.1177/0891243218766831" href="https://doi.org/10.1177/0891243218766831">"Are You Willing to Die For This Work?" Public Targeted Online Harassment in Higher Education: SWS [Sociologists for Women in Society] Presidential Address</a>, A. L. Ferber (2018), <em>Gender &amp; Society </em>32(3)<em>.</em></p>
-<h5>US-based Far-right </h5>
+<h3>US-based Far-right </h3>
 <p><a href="https://www.aaup.org/article/data-snapshot-whom-does-campus-reform-target-and-what-are-effects#.Yji_gJrMLFw">Data Snapshot: Whom Does Campus Reform Target and What Are the Effects?</a> H. Tiede, et.al., <em>American Association of University Professors Reports &amp; Publications.</em> Spring 2021</p>
 <p><a href="https://www.mediamatters.org/james-okeefe/conservative-dark-money-groups-infiltrating-campus-politics">The Conservative Dark-Money Groups Infiltrating Campus Politics</a> P. Vogel, <em>Media Matters for America</em>, 2017</p>
-<p><a data-cke-saved-href="https://www-tandfonline-com.proxy.library.cornell.edu/doi/full/10.1080/07393148.2021.1996837" href="https://www-tandfonline-com.proxy.library.cornell.edu/doi/full/10.1080/07393148.2021.1996837">Sensationalized Surveillance: Campus Reform and the Targeted Harassment of Faculty</a> S. McCarthy &amp; I. Kamola<em>, New Political Science.</em> Nov. 2021</p>
+<p><a href="https://www-tandfonline-com.proxy.library.cornell.edu/doi/full/10.1080/07393148.2021.1996837">Sensationalized Surveillance: Campus Reform and the Targeted Harassment of Faculty</a> S. McCarthy &amp; I. Kamola<em>, New Political Science.</em> Nov. 2021</p>
 <p><a href="https://theintercept.com/2021/04/10/campus-reform-koch-young-americans-for-freedom-leadership-institute/">A Billionaire-Funded Website with Ties to the Far-Right Is Trying to "Cancel" University Professors</a> A. Speri, <em>The Intercept. </em>April 2021</p>
 <p class="msg msg--success">Guide: <a href="https://facultyfirstresponders.com/">Faculty First Responders: Understand Right Wing Attacks on Faculty</a>, from political scientist Isaac Karmola</p>
-<h5>Science-denialism</h5>
+<h3>Science-denialism</h3>
 <p><a href="https://www.science.org/content/article/overwhelmed-hate-covid-19-scientists-face-avalanche-abuse-survey-shows">In the Line of Fire </a> C. O'Grady, <em>Science</em>, March 2022<br>On the networked harassment of scientists, particularly those working on COVID-19 research.</p>
-<h5>Foreign Affairs</h5>
+<h3>Foreign Affairs</h3>
 <p><a href="https://www.washingtonpost.com/world/2021/10/03/india-us-universities-hindutva/" target="_blank" rel="nofollow noopener noreferrer"></a><a href="https://www.washingtonpost.com/world/2021/10/03/india-us-universities-hindutva/" target="_blank" rel="nofollow noopener noreferrer">Under Fire from Hindu Nationalist Groups, U.S.-based Scholars of South Asia Worry About Academic Freedom</a> N. Masih, <em>The </em><em>Washington Post,</em> Oct. 3, 2021</p>
 <p><a href="https://www.hrw.org/report/2021/06/30/they-dont-understand-fear-we-have/how-chinas-long-reach-repression-undermines" target="_blank" rel="nofollow noopener noreferrer">"They Don't Understand the Fear We Have": How China's Long Reach of Repression Undermines Academic Freedom at Australia's Universities</a> <em>Human Rights Watch, </em>June 30, 2021</p>
 <p class="msg msg--success">Guide: <a href="https://www.hindutvaharassmentfieldmanual.org/" target="_blank" rel="noopener noreferrer">Hindutva Harassment Field Manual</a>, from the South Asia Scholar Activist Collective</p>
+<h2>Get Help</h2>
+<p>Have questions about any of the above? We're here to collaborate as you plan, implement, and troubleshoot. Email us anytime: DigitalCoLab at cornell.edu</p>
             ]]>
         </content>
     </entry>
