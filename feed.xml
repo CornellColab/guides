@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Cornell CoLab&#x27;s Guides</title>
     <link href="https://cornellcolab.github.io/guides/feed.xml" rel="self" />
     <link href="https://cornellcolab.github.io/guides" />
-    <updated>2022-11-17T13:24:16-05:00</updated>
+    <updated>2024-12-06T09:26:00-05:00</updated>
     <author>
         <name>The Digital CoLab at Cornell University Library</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://cornellcolab.github.io/guides/student-projects/"/>
         <id>https://cornellcolab.github.io/guides/student-projects/</id>
 
-        <updated>2022-10-25T09:13:54-04:00</updated>
+        <updated>2022-10-17T12:09:54-04:00</updated>
             <summary>
                 <![CDATA[
                     Digital Collections &amp; New Forms of Publication Revisualize ArchivesRevisualize Archives Victoria Baugh, Literatures in English Visualizing Joy in 19th-century Black Studio Portraiture: A digital collection&hellip;
@@ -29,19 +29,19 @@
 <aside class="post__note post__note--left">
 <h3><a href="http://revisualizearchives.com/">Revisualize Archives</a><a href="http://revisualizearchives.com/" target="_blank" rel="noopener noreferrer">Revisualize Archives</a></h3>
 <h6>Victoria Baugh,<br>Literatures in English</h6>
-<figure class="post__image"><img loading="lazy"  src="https://cornellcolab.github.io/guides/media/posts/4//revisualizeJoy2.jpeg" sizes="(max-width: 768px) 100vw, 768px" srcset="https://cornellcolab.github.io/guides/media/posts/4//responsive/revisualizeJoy2-xs.jpeg 300w ,https://cornellcolab.github.io/guides/media/posts/4//responsive/revisualizeJoy2-sm.jpeg 480w ,https://cornellcolab.github.io/guides/media/posts/4//responsive/revisualizeJoy2-md.jpeg 768w"  alt="" width="269" height="269"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://cornellcolab.github.io/guides/media/posts/4//revisualizeJoy2.jpeg" alt="" width="269" height="269" sizes="(max-width: 768px) 100vw, 768px" srcset="https://cornellcolab.github.io/guides/media/posts/4//responsive/revisualizeJoy2-xs.jpeg 300w ,https://cornellcolab.github.io/guides/media/posts/4//responsive/revisualizeJoy2-sm.jpeg 480w ,https://cornellcolab.github.io/guides/media/posts/4//responsive/revisualizeJoy2-md.jpeg 768w"></figure>
 <p>Visualizing Joy in 19th-century Black Studio Portraiture: <br>A digital collection of photographs for you to explore.</p>
 </aside>
 <aside class="post__note">
 <h3><a href="http://chaumpaigne.org/" target="_blank" rel="noopener noreferrer">De raptu meo</a></h3>
 <h6>Anna Waymack,<br>Medieval Studies</h6>
-<figure class="post__image"><img loading="lazy"  src="https://cornellcolab.github.io/guides/media/posts/4/duraptuMeo1-2.png" sizes="(max-width: 768px) 100vw, 768px" srcset="https://cornellcolab.github.io/guides/media/posts/4/responsive/duraptuMeo1-2-xs.png 300w ,https://cornellcolab.github.io/guides/media/posts/4/responsive/duraptuMeo1-2-sm.png 480w ,https://cornellcolab.github.io/guides/media/posts/4/responsive/duraptuMeo1-2-md.png 768w"  alt="" width="273" height="273"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://cornellcolab.github.io/guides/media/posts/4/duraptuMeo1-2.png" alt="" width="273" height="273" sizes="(max-width: 768px) 100vw, 768px" srcset="https://cornellcolab.github.io/guides/media/posts/4/responsive/duraptuMeo1-2-xs.png 300w ,https://cornellcolab.github.io/guides/media/posts/4/responsive/duraptuMeo1-2-sm.png 480w ,https://cornellcolab.github.io/guides/media/posts/4/responsive/duraptuMeo1-2-md.png 768w"></figure>
 <p>Waymack, A. "<a href="https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=2092&amp;context=mff" target="_blank" rel="noopener noreferrer">Teaching 'de raptu meo': Chaucer, Chaumpaigne, and Consent in the Classroom</a>," Medieval Feminist Forum 53.1 (2017): 150-75.</p>
 </aside>
 <aside class="post__note post__note--left">
 <h3><a href="http://periodicalpoets.com/" target="_blank" rel="noopener noreferrer">Periodical</a><a href="http://periodicalpoets.com/" target="_blank" rel="noopener noreferrer"> Poets</a></h3>
 <h6>Charline Jao,<br>Literatures in English</h6>
-<figure class="post__image"><img loading="lazy"  src="https://cornellcolab.github.io/guides/media/posts/4/periodicalPoets1.jpg" sizes="(max-width: 768px) 100vw, 768px" srcset="https://cornellcolab.github.io/guides/media/posts/4/responsive/periodicalPoets1-xs.jpg 300w ,https://cornellcolab.github.io/guides/media/posts/4/responsive/periodicalPoets1-sm.jpg 480w ,https://cornellcolab.github.io/guides/media/posts/4/responsive/periodicalPoets1-md.jpg 768w"  alt="" width="278" height="278"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://cornellcolab.github.io/guides/media/posts/4/periodicalPoets1.jpg" alt="" width="278" height="278" sizes="(max-width: 768px) 100vw, 768px" srcset="https://cornellcolab.github.io/guides/media/posts/4/responsive/periodicalPoets1-xs.jpg 300w ,https://cornellcolab.github.io/guides/media/posts/4/responsive/periodicalPoets1-sm.jpg 480w ,https://cornellcolab.github.io/guides/media/posts/4/responsive/periodicalPoets1-md.jpg 768w"></figure>
 <p>Over 500 poems from 19th-century, Black-edited periodicals: shedding light on literary trends, reading practices, and the role of poetry in abolition and protest.</p>
 </aside>
             ]]>
@@ -55,7 +55,7 @@
         <link href="https://cornellcolab.github.io/guides/guide/"/>
         <id>https://cornellcolab.github.io/guides/guide/</id>
 
-        <updated>2022-10-18T12:37:22-04:00</updated>
+        <updated>2022-10-16T18:36:18-04:00</updated>
             <summary>
                 <![CDATA[
                     Welcome to the Digital CoLab's collection of Guides and Tutorials At the CoLab, we offer one-on-one consultations, workshops, and classroom instruction on digital work including:&hellip;
@@ -89,18 +89,54 @@
         <link href="https://cornellcolab.github.io/guides/harassment/"/>
         <id>https://cornellcolab.github.io/guides/harassment/</id>
 
-        <updated>2022-11-17T13:24:16-05:00</updated>
+        <updated>2022-10-11T21:52:30-04:00</updated>
             <summary>
                 <![CDATA[
-                    Threat Models A good security plan starts with a threat model -- also known as a risk assessment. A threat model is personal, and it&hellip;
+                    Harassment’s Purpose: Individual and Collective Harms It’s easy to mistake coordinated harassment as a problem affecting only individuals, since the immediate purpose of these attacks&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>Threat Models</h2>
-<p>A good security plan starts with a threat model -- also known as a risk assessment. A threat model is personal, and it can be vague at first. As you continue to learn, plan, and take your first actions, the threat model becomes a touchstone that can help you decide which defenses are  worthwhile for you.</p>
-<p><a data-cke-saved-href="https://www.eff.org/files/2020/01/06/threatmodeling-onepager.pdf" href="https://www.eff.org/files/2020/01/06/threatmodeling-onepager.pdf">Risk Assessment one-pager</a>, Electronic Frontier Foundation (2019).</p>
-<p class="msg msg--info">For background reading to help inform your threat model, see the section Understanding Harassment below. </p>
+                <h2><strong>Harassment’s Purpose: Individual </strong><strong><i>and</i></strong><strong> Collective Harms</strong></h2>
+<p><span style="font-weight: 400;">It’s easy to mistake coordinated harassment as a problem affecting only individuals, since the immediate purpose of these attacks is to silence, humiliate, and isolate individual researchers. </span></p>
+<p><span style="font-weight: 400;">But the larger goal of harassment campaigns is to undermine and delegitimize higher education and public trust in academic expertise, with a particular focus on “high prestige” institutions. </span></p>
+<h4>Attacks on Academic Freedom: Understanding the Current Landscape</h4>
+<p><a href="https://pen.org/report/americas-censored-classrooms-2024/"><span style="font-weight: 400;">America’s Censored Classrooms 2024: Refining the Art of Censorship</span></a><span style="font-weight: 400;">. <br></span><span style="font-weight: 400;">A report from PEN America, October 2024</span></p>
+<p><a href="https://www.aaup.org/article/manufacturing-backlash"><span style="font-weight: 400;">Manufacturing Backlash: Right-Wing Think Tanks and Legislative Attacks on Higher Education</span></a><span style="font-weight: 400;">, <br>Isaac Kamola. A report from the AAUP’s Center for Academic Freedom, May 2024.</span></p>
+<p><a href="https://www.aaup.org/sites/default/files/Cherniavsky-.pdf"><span style="font-weight: 400;">Against the Common Sense: Academic Freedom as a Collective Right</span></a><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> <br>E. Cherniavsky,  </span><i><span style="font-weight: 400;">Journal of Academic Freedom. </span></i><span style="font-weight: 400;">2021<br></span><span style="font-weight: 400;">Academic freedom itself is often viewed as an individual right – the right of individual faculty to speak freely. But Cherniavsky usefully reframes academic freedom as the </span><i><span style="font-weight: 400;">collective</span></i><span style="font-weight: 400;"> right of the faculty of a department, discipline, and/or institution to set academic standards, determine the quality of one another’s academic work, define the boundaries of a discipline, determine what academic topics are taught, and more. </span></p>
+<p class="msg msg--info">For more journalism, research, and essays, see the section Understanding Harassment, below. </p>
+<h2>Doxing Self-Defense</h2>
+<h3>Find What's Out There </h3>
+<p><span style="font-weight: 400;">Google your name. Google your name + “address.” Google your name + “phone number.” <br>Then try those searches with a non-tracking search engine like DuckDuckGo, <a href="https://www.startpage.com/">Startpage</a>, <a href="https://search.brave.com/">Brave Search</a>, or <a href="https://www.qwant.com/">Qwant</a></span></p>
+<p><span style="font-weight: 400;">Search for your old handles, usernames, social media profiles. </span></p>
+<p><span style="font-weight: 400;">Search for yourself in a <a href="https://pimeyes.com/en">facial recognition database</a>. You will need to update a photo of yourself. But this is really worth doing. </span></p>
+<p><span style="font-weight: 400;">Repeat for close family members, or others you want to protect.</span></p>
+<h3>Clean Up What You Can</h3>
+<h4>Remove Your Data from Public-Facing Broker Sites</h4>
+<h6><span style="font-weight: 400;">DIY</span></h6>
+<p><span style="font-weight: 400;"><a href="https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List">Yael Grauer's Big Ass Data Broker Opt Out List </a>  </span><br><a href="https://inteltechniques.com/workbook.html"><span style="font-weight: 400;">Data Removal Guide from Michael Bazzell</span></a></p>
+<h6><span style="font-weight: 400;">Hiring a Service</span></h6>
+<p><a href="https://joindeleteme.com/"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">DeleteMe</span></a><br>First, review <a href="https://www.consumerreports.org/electronics/personal-information/services-that-delete-data-from-people-search-sites-review-a2705843415/">Services That Delete Your Data from People-Search Sites Don't Work Very Well, Study Finds</a> (<em>Consumer Reports, </em>Aug. 24, 2024)</p>
+<h4>Control Your Social Media Content</h4>
+<p>Decide what to keep, and what to delete.<br><br>Bulk delete, and back up old tweets (and soon other social media content) with the free tool <a href="https://cyd.social/">Cyd</a>. You can also plan to delete them on an automatic schedule. Many customization options. Save a spreadsheet of your old tweets for personal archiving, if you want.</p>
+<p>Use the <a href="https://www.blockpartyapp.com/" target="_blank" rel="noopener noreferrer">Block Party app</a> to review all privacy settings for multiple social media platforms, and activate useful tools on multiple platforms, such as proactive blocking of known bad actors, and quarantining of harassing messages.</p>
+<h4>Finally</h4>
+<p><span style="font-weight: 400;">Do you want your office address available on the campus website? Photo? </span></p>
+<p><span style="font-weight: 400;">Contact social media friends and ask them to untag you, or take down info.</span></p>
+<p><span style="font-weight: 400;">Consider leaving some old information up if it is useful for misdirection and poses no harm. </span></p>
+<h3>Some Stuff You Can't Delete</h3>
+<p><span style="font-weight: 400;">Sites like Canary Mission, Professor Watchlist, and Keywiki exist in order to make it easier for harassers to target faculty. Generally, there's no way to have your information removed from these websites, but you <em>can</em> <a href="https://support.google.com/websearch/answer/9673730?hl=en">request that Google remove search results from these sites in its rankings</a>. Results of these requests may vary, but it's worth a try. </span></p>
+<p>Another way to push down harasser-created results is to make sure there is plenty of good, recent information out there about you on high-quality websites. In other words, you don't want to disappear from the web. Examples include: well-curated social media profiles, your Cornell faculty page, news articles and press releases. Work with your Cornell university relations contact to help. </p>
+<p>Remember that you do not control any data about your digital activities and communication that is created on an employer-owned device, or with employer-licensed software, such as Zoom, Box, Microsoft 365, etc. </p>
+<h3>Background Reading on Data Brokers</h3>
+<h5><strong>Public-Facing Data Brokers</strong></h5>
+<p><a href="https://www.nytimes.com/2019/08/15/technology/personaltech/i-shared-my-phone-number-i-learned-i-shouldnt-have.html">I Shared My Phone Number. I Learned I Shouldn't Have.</a> (B. Chen, <em>NYTimes. </em>Aug. 15, 2019.)</p>
+<h5><strong>On the Failures of "Anonymized" Data</strong></h5>
+<p><a href="https://www.nytimes.com/interactive/2019/12/21/opinion/pasadena-smartphone-spying.html">Where Even the Children Are Being Tracked</a> (C. Warzel &amp; S. Thompson, <em>NYTimes. </em>Dec. 21, 2019)</p>
+<h5><strong>Phone Apps</strong></h5>
+<p><a href="https://www.nytimes.com/2019/09/24/opinion/facebook-google-apps-data.html">The Loophole That Turns Your Apps Into Spies</a> (C. Warzel, <em>NYTimes. </em>Sept. 24, 2019<em>)</em><br><a href="https://themarkup.org/ask-the-markup/2022/02/24/who-is-policing-the-location-data-industry#2022-app-store-illustrated-explainer_numbered-list">Who Is Policing the Location Data Industry?</a> (A. Ng &amp; J. Keegan,,<em>The Markup. </em>Feb. 24, 2022)</p>
+<h5>How Your Data Gets Passed Around </h5>
+<p>Play the <a href="https://datadealer.com/play/ " target="_blank" rel="noopener noreferrer">Data Dealer Game</a></p>
 <h2>Secure Your Accounts</h2>
 <p>Ideally, <em>each</em> of your accounts will have a unique, hard-to-guess password. Creation and storage of most of these passwords are best left to a password manager.</p>
 <p>But for your most important accounts, you may want to create your own memorable, strong passwords, and keep them out of your password manager. You may also want to enable two-factor authentication for these most important accounts. </p>
@@ -132,17 +168,6 @@
 <p><em><strong>Pros:</strong></em><em> </em>The absolute simplest to use, in our opinion.</p>
 <p><em><strong>Cons</strong></em><em>: </em>No free tier</p>
 <p><em><strong>Cost: </strong></em>$36/yr for individuals, $60/yr for families</p>
-<h5>LastPass</h5>
-<aside class="post__note">
-<ul>
-<li><a href="https://it.cornell.edu/password-mgmt">LastPass Sign Up through Cornell</a></li>
-<li><a href="https://support.logmeininc.com/lastpass">Official Help Docs</a></li>
-<li><a href="https://www.youtube.com/watch?v=j8Wj4oBy3os">An unofficial instructional video</a></li>
-</ul>
-</aside>
-<p><em><strong>Pros:</strong></em><em> </em>Supported by Cornell while you're affiliated.</p>
-<p><em><strong>Cons:</strong></em> Its recent acquisition by a private equity firm raises questions. It's also the only third-party password manager known to have experienced a security breach (but only of its source code. No customer passwords were accessed.). </p>
-<p><em><strong>Cost</strong></em>: Free Personal plan or Family plan for Cornell affiliates.<br>After Cornell affiliation ends: Free for one individual and <em>one device, </em>$36/yr for full-featured individual plan, $48/yr for families.</p>
 <h3>Enable Multi-Factor Authentication</h3>
 <p>For your most important or most sensitive accounts, consider enabling two-factor authentication (2FA) with an authenticator app, a hardware token -- or both, which lets each act as a backup for the other.</p>
 <p class="msg msg--warning">The easiest and often default 2FA method is plain text SMS. But this is also the least secure method, as a determined adversary can spoof your phone number if they know it, and intercept plain SMS texts. That's why we recommend an authenticator app or hardware token. </p>
@@ -155,34 +180,7 @@
 <p>A hardware token is the most secure form of 2FA. It's a small physical item that looks slightly like a thumb drive. Keep it with you -- on your keychain, for example -- and plug it into your device's USB or Lightning drive when you need authentication. It's particularly useful if you need 2FA access when you don't have reliable cellular service, or if you use burner phones.</p>
 <p>Hardware tokens explained: <a href="https://www.wired.com/story/how-to-use-a-yubikey/">Simplify and Secure Your Online Accounts with a Yubikey</a>, J Colt (2018). <em>WIRED.</em></p>
 <p>The <a href="https://www.yubico.com/">Yubikey</a> is the most popular brand of authenticator hardware token</p>
-<h2>Data Brokers</h2>
-<h3>Remove Your Details from Data Broker Storehouses</h3>
-<p>DIY: <a href="https://docs.google.com/document/d/1nJS9LJV7QCxl2d6DcTuao_lPfeT2gYgfWpvRzpSUEwU/edit?pli=1">Reanna's Big List of data brokers and their opt-out links</a></p>
-<p>If you decide to hire a service: <a href="https://joindeleteme.com/">DeleteMe</a></p>
-<h3>Plug Some Leaky Data Holes</h3>
-<p>Install tracking blocker extensions on your web browsers, like <a href="https://privacybadger.org/">Privacy Badger</a> or <a href="https://ublockorigin.com/">uBlock Origin</a>.</p>
-<p>Delete apps from your phone that you don't need.</p>
-<p>Follow t<a href="https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-privacy-tips.html">hese steps for limiting location tracking on your phone</a>. (<em>NYTimes</em>, Dec. 2019)</p>
-<p class="msg msg--success">Guide: <a href="https://datadetoxkit.org/en/home" target="_blank" rel="noopener noreferrer">Data Detox Kit</a>, by the Tactical Tech organization</p>
-<h3>Background Reading on Data Brokers</h3>
-<h5><strong>Public-Facing Data Brokers</strong></h5>
-<p><a href="https://www.nytimes.com/2019/08/15/technology/personaltech/i-shared-my-phone-number-i-learned-i-shouldnt-have.html">I Shared My Phone Number. I Learned I Shouldn't Have.</a> (B. Chen, <em>NYTimes. </em>Aug. 15, 2019.)</p>
-<h5><strong>On the Failures of "Anonymized" Data</strong></h5>
-<p><a href="https://www.nytimes.com/interactive/2019/12/21/opinion/pasadena-smartphone-spying.html">Where Even the Children Are Being Tracked</a> (C. Warzel &amp; S. Thompson, <em>NYTimes. </em>Dec. 21, 2019)</p>
-<h5><strong>Phone Apps</strong></h5>
-<p><a href="https://www.nytimes.com/2019/09/24/opinion/facebook-google-apps-data.html">The Loophole That Turns Your Apps Into Spies</a> (C. Warzel, <em>NYTimes. </em>Sept. 24, 2019<em>)</em><br><a href="https://themarkup.org/ask-the-markup/2022/02/24/who-is-policing-the-location-data-industry#2022-app-store-illustrated-explainer_numbered-list">Who Is Policing the Location Data Industry?</a> (A. Ng &amp; J. Keegan,,<em>The Markup. </em>Feb. 24, 2022)</p>
-<h2>Control Your Purposeful Online Presence</h2>
-<h3>Social Media</h3>
-<p>Identify all your accounts, including those you may have abandoned long ago. Search for old handles and email addresses. Delete accounts you no longer use. Delete old content you no longer need.  </p>
-<p>On Twitter, use the <a href="https://www.blockpartyapp.com/" target="_blank" rel="noopener noreferrer">Block Party app</a> to activate several very useful tools and strategies, such as proactive blocking of known bad actors, and quarantining of harassing messages.</p>
-<p>Bulk delete old tweets with the tool <a href="https://semiphemeral.com/">Semiphemeral</a>. You can also plan to delete them on an automatic schedule . See <a href="https://micahflee.com/2020/09/semiphemeral-automate-deleting-your-old-tweets-likes-and-direct-messages/">Instructions here</a>. Many customization options. You can also save a spreadsheet of your old tweets for personal archiving, if you want.</p>
-<p>Delete or hide old Facebook posts in bulk (<a href="https://www.pcmag.com/how-to/quickly-delete-old-facebook-posts">Instructions from <em>PCMag</em></a>, 2021)</p>
-<p>If you have social media accounts that you use primarily for communicating with friends and family (rather than professionally), consider making them private.</p>
-<p>What kinds of information and images do you feel comfortable sharing going forward?</p>
-<p class="msg msg--success">Guide: <a href="http://prcurtis.com/docs/twitterguide2/" target="_blank" rel="noopener noreferrer">A Guide to Twitter and Social Media Safety for Academics (And Everyone Else)</a> by historian Paula R. Curtis (2022)</p>
-<p class="msg msg--warning">Note: Since Twitter ownership changed in later October 2022, a significant portion of the company's Trust and Safety team, including is leader, have left, and the company does not currently employ a data protection officer. Observers are raising concerns about basic data security and privacy, as well as the potential for moderation and other harassment policies to change without warning. The situation is still developing, but some information in the above guide may become outdated.</p>
-<h3>University Websites &amp; Personal Websites</h3>
-<p>Do you want a photo on your department website? Do you want your campus address posted on university or personal websites?</p>
+<h3>Personal Websites</h3>
 <p>If you maintain a personal website, use a contact form rather than publishing your personal email address.</p>
 <p>If you have a personal website, be sure to keep security patches updated. Or, build your site using a static site generator; static sites are more resistant to denial-of-service attacks and other attempts to cause harm. Talk to Digital CoLab staff for help with building a static site. </p>
 <h3>Your Academic Work</h3>
