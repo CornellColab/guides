@@ -3,7 +3,7 @@
     <title>Cornell CoLab&#x27;s Guides</title>
     <link href="https://cornellcolab.github.io/guides/feed.xml" rel="self" />
     <link href="https://cornellcolab.github.io/guides" />
-    <updated>2024-12-07T19:13:24-05:00</updated>
+    <updated>2025-06-13T10:24:05-04:00</updated>
     <author>
         <name>The Digital CoLab at Cornell University Library</name>
     </author>
@@ -92,167 +92,14 @@
         <updated>2022-10-11T21:52:30-04:00</updated>
             <summary>
                 <![CDATA[
-                    Harassment’s Purpose: Individual and Collective Harms It’s easy to mistake coordinated harassment as a problem affecting only individuals, since the immediate purpose of these attacks&hellip;
+                    This guide has moved! Please visit the most recent Guide to Digital Harassment Self-Defense. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2><strong>Harassment’s Purpose: Individual </strong><strong>and</strong><strong> Collective Harms</strong></h2>
-<p><span style="font-weight: 400;">It’s easy to mistake coordinated harassment as a problem affecting only individuals, since the immediate purpose of these attacks is to silence, humiliate, and isolate individual researchers. </span></p>
-<p><span style="font-weight: 400;">But the larger goal of harassment campaigns is to undermine and delegitimize higher education and public trust in academic expertise, with a particular focus on “high prestige” institutions. </span></p>
-<h4>Attacks on Academic Freedom: Understanding the Current Landscape</h4>
-<p><a href="https://pen.org/report/americas-censored-classrooms-2024/"><span style="font-weight: 400;">America’s Censored Classrooms 2024: Refining the Art of Censorship</span></a><span style="font-weight: 400;">. <br></span><span style="font-weight: 400;">A report from PEN America, October 2024</span></p>
-<p><a href="https://www.aaup.org/article/manufacturing-backlash"><span style="font-weight: 400;">Manufacturing Backlash: Right-Wing Think Tanks and Legislative Attacks on Higher Education</span></a><span style="font-weight: 400;">, <br>Isaac Kamola. A report from the AAUP’s Center for Academic Freedom, May 2024.</span></p>
-<p><a href="https://www.aaup.org/sites/default/files/Cherniavsky-.pdf"><span style="font-weight: 400;">Against the Common Sense: Academic Freedom as a Collective Right</span></a><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> <br>E. Cherniavsky,  </span><i><span style="font-weight: 400;">Journal of Academic Freedom. </span></i><span style="font-weight: 400;">2021<br></span><span style="font-weight: 400;">Academic freedom itself is often viewed as an individual right – the right of individual faculty to speak freely. But Cherniavsky usefully reframes academic freedom as the </span><i><span style="font-weight: 400;">collective</span></i><span style="font-weight: 400;"> right of the faculty of a department, discipline, and/or institution to set academic standards, determine the quality of one another’s academic work, define the boundaries of a discipline, determine what academic topics are taught, and more. </span></p>
-<p class="msg msg--info">For more journalism, research, and essays, see the section Understanding Harassment, below. </p>
-<h2>Doxing Self-Defense</h2>
-<h3>Find What's Out There </h3>
-<p><span style="font-weight: 400;">Google your name. Google your name + “address.” Google your name + “phone number.” <br>Then try those searches with a non-tracking search engine like DuckDuckGo, <a href="https://www.startpage.com/">Startpage</a>, <a href="https://search.brave.com/">Brave Search</a>, or <a href="https://www.qwant.com/">Qwant</a></span></p>
-<p><span style="font-weight: 400;">Search for your old handles, usernames, social media profiles. </span></p>
-<p><span style="font-weight: 400;">Search for yourself in a <a href="https://pimeyes.com/en">facial recognition database</a>. You will need to update a photo of yourself. </span></p>
-<p><span style="font-weight: 400;">Repeat for close family members, or others you want to protect.</span></p>
-<h3>Clean Up What You Can</h3>
-<h4>Remove Your Data from Public-Facing Broker Sites</h4>
-<h6><span style="font-weight: 400;">DIY</span></h6>
-<p><span style="font-weight: 400;"><a href="https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List">Big Ass Data Broker Opt Out List </a>, Yael Grauer </span><br><a href="https://inteltechniques.com/workbook.html"><span style="font-weight: 400;">IntelTechniques' Data Removal Guide</span></a><a></a>, Michael Bazzell</p>
-<h6><span style="font-weight: 400;">Hiring a Service</span></h6>
-<p>First, review <a href="https://www.consumerreports.org/electronics/personal-information/services-that-delete-data-from-people-search-sites-review-a2705843415/">Services That Delete Your Data from People-Search Sites Don't Work Very Well, Study Finds</a> (<em>Consumer Reports, </em>Aug. 24, 2024)<br><a href="https://joindeleteme.com/"><span style="font-weight: 400;">DeleteMe</span></a></p>
-<h4>Control Your Social Media Content</h4>
-<p>Decide what to keep, and what to delete.<br><br>Bulk delete, and back up old tweets (and soon other social media content) with the free tool <a href="https://cyd.social/">Cyd</a>. You can also plan to delete them on an automatic schedule. Many customization options. Save a spreadsheet of your old tweets for personal archiving, if you want.</p>
-<p>Use the <a href="https://www.blockpartyapp.com/" target="_blank" rel="noopener noreferrer">Block Party app</a> to review all privacy settings for multiple social media platforms, and activate useful tools on multiple platforms, such as proactive blocking of known bad actors, and quarantining of harassing messages.</p>
-<h4>Finally</h4>
-<p><span style="font-weight: 400;">Do you want your office address available on the campus website? Photo? </span></p>
-<p><span style="font-weight: 400;">Contact social media friends and ask them to untag you, or take down info.</span></p>
-<p><span style="font-weight: 400;">Consider leaving some old information up if it is useful for misdirection and poses no harm. </span></p>
-<h3>Some Stuff You Can't Delete</h3>
-<p><span style="font-weight: 400;">Sites like Canary Mission, Professor Watchlist, and Keywiki exist in order to make it easier for harassers to target faculty. Generally, there's no way to have your information removed from these websites, but you <em>can</em> <a href="https://support.google.com/websearch/answer/9673730?hl=en">request that Google remove search results from these sites in its rankings</a>. Results of these requests may vary, but it's worth a try. </span></p>
-<p>Another way to push down harasser-created results is to make sure there is plenty of good, recent information out there about you on high-quality websites. In other words, you don't want to disappear from the web. Examples include: well-curated social media profiles, your Cornell faculty page, news articles and press releases. Work with your Cornell university relations contact to help. </p>
-<p>Remember that you do not control any data about your digital activities and communication that is created on an employer-owned device, or with employer-licensed software, such as Zoom, Box, Microsoft 365, etc. </p>
-<h3>Background Reading on Data Brokers</h3>
-<h5><strong>Public-Facing Data Brokers</strong></h5>
-<p><a href="https://www.nytimes.com/2019/08/15/technology/personaltech/i-shared-my-phone-number-i-learned-i-shouldnt-have.html">I Shared My Phone Number. I Learned I Shouldn't Have.</a> (B. Chen, <em>NYTimes. </em>Aug. 15, 2019.)</p>
-<h5><strong>On the Failures of "Anonymized" Data</strong></h5>
-<p><a href="https://www.nytimes.com/interactive/2019/12/21/opinion/pasadena-smartphone-spying.html">Where Even the Children Are Being Tracked</a> (C. Warzel &amp; S. Thompson, <em>NYTimes. </em>Dec. 21, 2019)</p>
-<h5><strong>Phone Apps</strong></h5>
-<p><a href="https://www.nytimes.com/2019/09/24/opinion/facebook-google-apps-data.html">The Loophole That Turns Your Apps Into Spies</a> (C. Warzel, <em>NYTimes. </em>Sept. 24, 2019<em>)</em><br><a href="https://themarkup.org/ask-the-markup/2022/02/24/who-is-policing-the-location-data-industry#2022-app-store-illustrated-explainer_numbered-list">Who Is Policing the Location Data Industry?</a> (A. Ng &amp; J. Keegan,,<em>The Markup. </em>Feb. 24, 2022)</p>
-<h5>How Your Data Gets Passed Around </h5>
-<p>Play the <a href="https://datadealer.com/play/ " target="_blank" rel="noopener noreferrer">Data Dealer Game</a></p>
-<h2>Secure Your Accounts</h2>
-<p>Ideally, <em>each</em> of your accounts will have a unique, hard-to-guess password. Creation and storage of most of these passwords are best left to a password manager.</p>
-<p>But for your most important accounts, you may want to create your own memorable, strong passwords, and keep them out of your password manager. You may also want to enable two-factor authentication for these most important accounts. </p>
-<p>Don't forget to create a strong, memorable password for your password manager itself!</p>
-<p><a href="https://haveibeenpwned.com/">Have I Been Pwned?</a> A safe, free tool that allows you to see if your email address(es) has been a username in any known credential hacks.</p>
-<p><a href="https://dehashed.com/"><span style="font-weight: 400;">DeHashed — #FreeThePassword</span></a><span style="font-weight: 400;"> A more explicit version of HaveIBeenPwned. It will show leaked passwords, credit card information, and other details. This is a site regularly used by harassers to find information.</span></p>
-<h3>Create Strong Passwords</h3>
-<p><a href="https://ssd.eff.org/en/module/creating-strong-passwords">How to Create Strong Passwords</a>, Electronic Freedom Foundation (2021)</p>
-<h3>Choose and Maintain a 3rd-Party Password Manager</h3>
-<p><a href="https://www.nytimes.com/wirecutter/blog/why-you-need-a-password-manager-yes-you/">Why You Need a Password Manager. Yes, You.</a>, A. Cunningham (2021). <em>Wirecutter: The New York Times</em></p>
-<p>Choose a password manager, and install it on all your devices. Here are three easy-to-use options:</p>
-<h5>Bitwarden</h5>
-<aside class="post__note">
-<ul>
-<li><a href="https://bitwarden.com/">Bitwarden Sign Up</a></li>
-<li><a href="https://bitwarden.com/help/">Official Help Docs</a></li>
-<li><a href="https://www.youtube.com/watch?v=qzuut0-noHk">An unofficial video introduction</a></li>
-</ul>
-</aside>
-<p><em><strong>Pros</strong></em><em> </em>Open source. Well-designed and easy to use. Free for individuals.</p>
-<p><em><strong>Cons</strong></em><em>: Slightly</em> less user-friendly than 1Password</p>
-<p><em><strong>Cost </strong></em>Free for <strong>up to 2 individuals </strong>sharing an account. $40/year for families larger than two.</p>
-<h5>Proton Pass</h5>
-<aside class="post__note">
-<ul>
-<li><a href="https://proton.me/pass">Proton Pass Sign Up</a></li>
-</ul>
-</aside>
-<p><em><strong>Pros</strong></em><em> </em>Open source. Free for individuals. If you use other Proton tools (like Proton Mail or Proton VPN), Proton Pass will integrate well. </p>
-<p><em><strong>Cons</strong></em><em>: </em>We haven't yet evaluated Proton Pass for usability, but we've heard good reports.</p>
-<p><em><strong>Cost </strong></em>Free for individuals. $60/year for families.</p>
-<h5>1Password</h5>
-<aside class="post__note">
-<ul>
-<li><a href="https://1password.com/">1Password Sign Up</a></li>
-<li><a href="https://support.1password.com/">Official Help Docs</a></li>
-</ul>
-</aside>
-<p><em><strong>Pros:</strong></em><em> </em>The absolute simplest to use, in our opinion.</p>
-<p><em><strong>Cons</strong></em><em>: </em>No free tier</p>
-<p><em><strong>Cost: </strong></em>$36/yr for individuals, $60/yr for families</p>
-<h5>LastPass</h5>
-<p><a href="https://it.cornell.edu/password-mgmt/sign-cornell-lastpass-account">Cornell offers a free Enterprise LastPass account to students, staff, and faculty.</a> This account offers family sharing and other advanced features. If you are already using LastPass, and like it, great! It is a much more secure option than not using a password manager. It's also great if you want free access to a family password manager.</p>
-<p>That said, LastPass isn't our favorite password manager. It is currently owned by private equity sponsors, which sometimes signals that quality and security may be de-prioritized in multiple ways. And in fact, <a href="https://it.cornell.edu/password-mgmt/advice-about-lastpass-security-breach">LastPass suffered a security breach</a> in late 2022, the only password manager that is known to have been breached in this way. In addition, LastPass software is based on closed-source code, which in general is less secure than open-source code. Finally, be aware that when you leave Cornell (unless as emeritus faculty), your enterprise LastPass account will convert to a free personal account, without family sharing capability and other advanced features.  </p>
-<h5>Setting Up Your Password Manager</h5>
-<p>If you already have password instructions stored in a browser, look for instructions on how to "import passwords" from your browser into your new password manager. </p>
-<p>After importing your passwords, delete them from your browser, and turn off any automatic saving features.</p>
-<h3>Enable Multi-Factor Authentication</h3>
-<p>For your most important or most sensitive accounts, consider enabling two-factor authentication (2FA) with an authenticator app, a hardware token -- or both, which lets each act as a backup for the other.</p>
-<p class="msg msg--warning">The easiest and often default 2FA method is plain text SMS. But this is also the least secure method, as a determined adversary can spoof your phone number if they know it, and intercept plain SMS texts. That's why we recommend an authenticator app or hardware token. </p>
-<h5><strong>Authenticator Apps</strong></h5>
-<p>Authenticator apps are free for individual end users (like you) because their profit comes from the tech companies that pay for them to be compatible with their sites, and by enterprise customers (like Cornell).</p>
-<p>Authenticator apps explained: <a href="https://www.vox.com/recode/22419794/authenticator-apps-and-you-authy-google-authenticator">There's a Better Way to Protect Yourself from Hackers and Identity Thieves</a>, S. Morrison (2021). <em>Vox recode.</em></p>
-<p>You probably already use one authenticator app -- Duo Mobile -- to access your Cornell account. <a href="https://guide.duo.com/third-party-accounts">Follow these instructions to add additional third-party accounts to Duo Mobile</a>.</p>
-<p><a href="https://authy.com">Authy</a> is another free and trustworthy authenticator app. <br>Some 3rd-party password managers also offer authenicator apps. </p>
-<h5><strong>Authentication with a Hardware Token</strong></h5>
-<p>A hardware token is the most secure form of 2FA. It's a small physical item that looks slightly like a thumb drive. Keep it with you -- on your keychain, for example -- and plug it into your device's USB or Lightning drive when you need authentication. It's particularly useful if you need 2FA access when you don't have reliable cellular service, or if you use burner phones.</p>
-<p>Hardware tokens explained: <a href="https://www.wired.com/story/how-to-use-a-yubikey/">Simplify and Secure Your Online Accounts with a Yubikey</a>, J Colt (2018). <em>WIRED.</em></p>
-<p>The <a href="https://www.yubico.com/">Yubikey</a> is the most popular brand of authenticator hardware token</p>
-<h3>Personal Websites</h3>
-<p>If you maintain a personal website, use a contact form rather than publishing your personal email address.</p>
-<p>If you have a personal website, be sure to keep security patches updated. Or, build your site using a static site generator; static sites are more resistant to denial-of-service attacks and other attempts to cause harm. Talk to Digital CoLab staff for help with building a static site. </p>
-<h3>Your Academic Work</h3>
-<p>Be aware that your email correspondence with colleagues at state universities may be obtained and published via public records requests.</p>
-<p>If you maintain a profile on a third-party host of preprints/postprints, be cautious with commercial surveillance sites such as Academia and ResearchGate. Instead, consider repositories and networks built, owned, and maintained by scholarly communities, such as <a href="https://orcid.org/" target="_blank" rel="noopener noreferrer">OrcID</a>, <a href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">ArXiv</a>, <a href="https://hcommons.org/" target="_blank" rel="noopener noreferrer">Humanities Commons</a>, <a href="https://ecommons.cornell.edu/" target="_blank" rel="noopener noreferrer">eCommons</a>, or others in your field. </p>
-<p>When a library database vendor pushes you to create an account while using it, avoid doing so, unless you have a specific reason for wanting to do so. </p>
-<p>Consider adding a copyright statement to your syllabus that prohibits students' posting course materials publicly. <a href="https://theuniversityfaculty.cornell.edu/dean/academic-integrity/students-buying-and-selling-course-materials/">This Faculty Senate page offers suggested language</a>. If you find your work posted on third party sites, you can request removal. Cornell Library Copyright Services offers <a href="https://guides.library.cornell.edu/copyright/course-material">a guide for finding re-posted course material and requesting its removal. </a></p>
-<h3>Early Warning System</h3>
-<p><a href="https://support.google.com/websearch/answer/4815696?hl=en" target="_blank" rel="noopener noreferrer">Set up a Google alert for your name</a>, so that you will have a heads-up if you become a target.</p>
-<p>Proactively request colleagues and family not share your contact information, schedule, or other personal details with cold callers or e-mailers. Speak with:</p>
-<ul>
-<li>Departmental faculty and staff</li>
-<li>Anyone who is connected with your name in your academic work</li>
-<li>Anyone (usually family members or roommates) who you find linked to you in data-broker records</li>
-</ul>
-<h2>Plan in Advance: <br>How To Respond in the Event of an Attack</h2>
-<p>Is there a friend you would trust to screen your email for you, so that you don't have to read the messages in the moment? Talk to them in advance.</p>
-<p>Who in your personal or professional networks could you tap to report social media abuse? Threatening posts have a better chance of being taken down if reported by someone other than the target.</p>
-<p>Will you want to save abusive materials in order to have documentation later?</p>
-<p>Consider starting a conversation with colleagues in your unit or department about the collective harm of targeted and network harassment. As a group, consider how you might respond collectively, or not, to cases of sustained and severe harassment.</p>
-<p>Consider contacting <a href="https://health.cornell.edu/services/victim-advocacy">Cornell Health's Victim Advocacy Program</a> for mental health and other support.</p>
-<h2>Collective Harms &amp; Collective Responses</h2>
-<p>It's important to remember that, while the largest burden of targeted or networked harassment is borne by individuals, the goal of such harassment is to discredit and delegitimize higher education, the academy, the research process, academic freedom, and academic institutions <em>collectively. </em></p>
-<p>Therefore, the problem can never be solved by individual responses alone. Here are some resources to consider if you are planning collective defenses with your department, professional organization, or other group. </p>
-<p>The American Association of University Professors (AAUP), informed by years of research and practice, <a href="https://www.aaup.org/news/targeted-online-harassment-faculty#.YU_bI6ApDfY">recommends </a>clear and forceful condemnations of harassment and intimidation from institutions, boards, and faculties, individually and collectively.</p>
-<p><a href="https://facultyfirstresponders.com/responding-as-an-administrator/">How Should Administrators Respond to a Campus Reform Story?</a> I. Kamola, Faculty First Responders Project</p>
-<p>"<a href="https://tressiemc.com/essays-2/academic-outrage-when-the-culture-wars-go-digital/" target="_blank" rel="noopener noreferrer">Academic Outrage: When the Culture Wars Go Digital</a>" [blog post], T. MacMillan Cottom, 2017. </p>
-<p>A Model <a href="https://news.syr.edu/blog/2021/09/13/message-from-chancellor-kent-syverud-and-dean-david-van-slyke/">Public Message in Support of Targeted Faculty Member </a>, Syracuse University, Sept. 2021</p>
-<p><a href="https://www.aaup.org/sites/default/files/Cherniavsky-.pdf">Against the Common Sense: Academic Freedom as a Collective Right </a> E. Cherniavsky,  <em>Journal of Academic Freedom. </em>2021</p>
-<h2>Understanding Harassment</h2>
-<p>A collection of essays, research, and journalism.</p>
-<h3>First-person Accounts by Targeted Academics</h3>
-<p><a data-cke-saved-href="https://www.uproot.space/features/confronting-anti-asian-racism" href="https://www.uproot.space/features/confronting-anti-asian-racism">Confronting Anti-Asian Racism: A Statement on (In)visibility and Online Targeted Harassment</a>, R. Esmail (2021), <em>Up//root.</em></p>
-<p><a href="https://www.facebook.com/haymarketbooks/posts/a-statement-from-keeanga-yamahtta-taylor-concerning-my-public-talks-this-weekit-/1494045207312386/">A Statement Concerning My Public Talks This Week</a>, K. Taylor, posted on Facebook by Haymarket Books, 2017.</p>
-<p><a data-cke-saved-href="https://doi.org/10.1177/0891243218766831" href="https://doi.org/10.1177/0891243218766831">"Are You Willing to Die For This Work?" Public Targeted Online Harassment in Higher Education: SWS [Sociologists for Women in Society] Presidential Address</a>, A. L. Ferber (2018), <em>Gender &amp; Society </em>32(3)<em>.</em></p>
-<h3>US-based Far-right </h3>
-<p><a href="https://www.aaup.org/article/data-snapshot-whom-does-campus-reform-target-and-what-are-effects#.Yji_gJrMLFw">Data Snapshot: Whom Does Campus Reform Target and What Are the Effects?</a> H. Tiede, et.al., <em>American Association of University Professors Reports &amp; Publications.</em> Spring 2021</p>
-<p><a href="https://www-tandfonline-com.proxy.library.cornell.edu/doi/full/10.1080/07393148.2021.1996837">Sensationalized Surveillance: Campus Reform and the Targeted Harassment of Faculty</a> S. McCarthy &amp; I. Kamola<em>, New Political Science.</em> Nov. 2021</p>
-<p><a href="https://theintercept.com/2021/04/10/campus-reform-koch-young-americans-for-freedom-leadership-institute/">A Billionaire-Funded Website with Ties to the Far-Right Is Trying to "Cancel" University Professors</a> A. Speri, <em>The Intercept. </em>April 2021</p>
-<p class="msg msg--success">Guide: <a href="https://facultyfirstresponders.com/">Faculty First Responders: Understand Right Wing Attacks on Faculty</a>, from political scientist Isaac Karmola</p>
-<h3>Science-denialism</h3>
-<p><a href="https://www.science.org/content/article/overwhelmed-hate-covid-19-scientists-face-avalanche-abuse-survey-shows">In the Line of Fire </a> C. O'Grady, <em>Science</em>, March 2022<br>On the networked harassment of scientists, particularly those working on COVID-19 research.</p>
-<h3>Foreign Affairs</h3>
-<p><a href="https://www.washingtonpost.com/world/2021/10/03/india-us-universities-hindutva/" target="_blank" rel="nofollow noopener noreferrer"></a><a href="https://www.washingtonpost.com/world/2021/10/03/india-us-universities-hindutva/" target="_blank" rel="nofollow noopener noreferrer">Under Fire from Hindu Nationalist Groups, U.S.-based Scholars of South Asia Worry About Academic Freedom</a> N. Masih, <em>The </em><em>Washington Post,</em> Oct. 3, 2021</p>
-<p><a href="https://www.hrw.org/report/2021/06/30/they-dont-understand-fear-we-have/how-chinas-long-reach-repression-undermines" target="_blank" rel="nofollow noopener noreferrer">"They Don't Understand the Fear We Have": How China's Long Reach of Repression Undermines Academic Freedom at Australia's Universities</a> <em>Human Rights Watch, </em>June 30, 2021</p>
-<p class="msg msg--success">Guide: <a href="https://www.hindutvaharassmentfieldmanual.org/" target="_blank" rel="noopener noreferrer">Hindutva Harassment Field Manual</a>, from the South Asia Scholar Activist Collective</p>
-<h2>Sources</h2>
-<p><a href="https://www.privacyguides.org/en/">Equality Labs' Anti-Doxing Guide for Activists</a><br>Equality Labs is a South Asian Dalit civil rights organization. One of their priorities is research and teaching on digital security. </p>
-<p><a href="https://www.privacyguides.org/en/">Privacyguides.org</a><br>Trustworthy recommendations and analysis for a wide range of digital software, including browsers, search engines, password managers, VPNs, email services, and more. </p>
-<p><a href="https://onlineharassmentfieldmanual.pen.org/">PEN America's Online Harassment Field Manual</a> and <a href="https://pen.org/digital-safety-snacks/">Digital Safety Snacks</a><br>PEN America supports journalists and writers. </p>
-<p><a href="https://facultyfirstresponders.com/">Faculty First Responders: Understanding Right-Wing Attacks on Faculty</a><br>A peer-to-peer faculty collective founded by political scientist Isaac Kamola</p>
-<p>AAUP's<a href="https://www.aaup.org/sites/default/files/Targeted%20Online%20Harassment.pdf"> Statement on Targeted Online Harassment of Faculty</a> (2017) <br>AAUP's <a href="https://www.aaup.org/issues/targeted-harassment/what-you-can-do-about-targeted-online-harassment">What You Can Do About Targeted Online Harassment </a><a href="https://www.aaup.org/issues/targeted-harassment/what-you-can-do-about-targeted-online-harassment" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"></a></p>
-<p><a href="https://researchersupport.org/">Researcher Support Consortium</a><br>Includes a <a href="https://researchersupport.org/resources/">Toolkit for </a><a href="https://researchersupport.org/wp-content/uploads/2024/09/RSC_Toolkit_V2.pdf">Institutions</a> to support researchers who are under attack or threat of attack. </p>
-<p>Our brilliant colleagues and collaborators at <a href="https://libraryfreedom.org/">Library Freedom Project</a></p>
-<h2>Get Help</h2>
-<p>Have questions about any of the above? We're here to collaborate as you plan, implement, and troubleshoot. Email us anytime: DigitalCoLab at cornell.edu</p>
+                <h2>This guide has moved!</h2>
+<p> </p>
+<h2>Please visit the most recent <a href="https://digitalscholarship.library.cornell.edu/?p=22">Guide to Digital Harassment Self-Defense</a>. </h2>
             ]]>
         </content>
     </entry>
