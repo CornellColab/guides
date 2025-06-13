@@ -3,7 +3,7 @@
     <title>Cornell CoLab&#x27;s Guides</title>
     <link href="https://cornellcolab.github.io/guides/feed.xml" rel="self" />
     <link href="https://cornellcolab.github.io/guides" />
-    <updated>2025-06-13T11:55:03-04:00</updated>
+    <updated>2025-06-13T11:59:40-04:00</updated>
     <author>
         <name>The Digital CoLab at Cornell University Library</name>
     </author>
@@ -92,14 +92,13 @@
         <updated>2022-10-11T21:52:30-04:00</updated>
             <summary>
                 <![CDATA[
-                    This guide has moved! Please visit the most recent Guide to Digital Harassment Self-Defense. 
+                    This guide has moved! Please visit the most up-to-date Guide to Digital Harassment Self-Defense. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>This guide has moved!</h2>
-<p> </p>
-<h2>Please visit the most recent <a href="https://digitalscholarship.library.cornell.edu/?p=22">Guide to Digital Harassment Self-Defense</a>. </h2>
+                <h2 class="align-center">This guide has moved!</h2>
+<h2 class="align-center">Please visit the most up-to-date <a href="https://digitalscholarship.library.cornell.edu/?p=22">Guide to Digital Harassment Self-Defense</a>. </h2>
             ]]>
         </content>
     </entry>
